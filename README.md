@@ -21,25 +21,25 @@
 
 
 ## Tampilan Aplikasi
-[Tampilan Splash Screen]![pict1](https://github.com/user-attachments/assets/576c4afd-adf4-4fcf-bb86-8710345edad5)
+[Tampilan Splash Screen]![pict1](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/app1.jpg)
 
-[Tampilan Login]![pict2](https://github.com/user-attachments/assets/021ec25d-e327-457e-a63e-2daa68709800)
+[Tampilan Login]![pict2](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/app%20(3).jpg)
 
-[Tampilan Register]![pict3](https://github.com/user-attachments/assets/ccc63383-9a83-440a-9bf7-b546a7f3f4d0)
+[Tampilan Register]![pict3](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/app%20(1).jpg)
 
-[Tampilan List Chat View]![pict4](https://github.com/user-attachments/assets/819e52cd-ea4e-4e01-9716-3a72e611f10f)
+[Tampilan List Chat View]![pict4](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/app%20(2).jpg)
 
-[Tampilan Icon Class ES]![pict5](https://github.com/user-attachments/assets/2a2d9805-6678-4f2e-ad80-9e792d9c6f34)
+[Tampilan Icon Class ES]![pict5](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/app.jpg)
 
 
 
-[Tampilan Spalah Program]![pict6](https://github.com/user-attachments/assets/f79a10ed-24f5-4732-bc8b-cfaf9c071b86)
+[Tampilan Spalah Program]![pict6](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/Screenshot%202025-05-06%20190248.png)
 
-[Tampilan Login Program]![pict7](https://github.com/user-attachments/assets/05d68eae-0532-4057-9c79-d51d6e0de159)
+[Tampilan Login Program]![pict7](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/Screenshot%202025-05-06%20190319.png)
 
-[Tampilan Register Program]![pict8](https://github.com/user-attachments/assets/16c59214-80ed-48ae-a2cb-8b7a49d0260d)
+[Tampilan Register Program]![pict8](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/Screenshot%202025-05-06%20190336.png)
 
-[Tampilan List Chat View Program]![pict9](https://github.com/user-attachments/assets/82dff2ad-5318-4156-8859-88815b738c18)
+[Tampilan List Chat View Program]![pict9](https://github.com/harisnurpazri/UTS_PM1-Haris_Nurpazri-23552011143/blob/main/Screenshot%202025-05-06%20190356.png)
 
 
 ## Demo Proyek
