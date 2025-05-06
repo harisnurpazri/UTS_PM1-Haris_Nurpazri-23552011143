@@ -8,9 +8,6 @@
   <li>Nama  : { Haris Nurpazri }</li>
   <li>NIM   : { 23552011143 }</li>
   <li>Kelas : { TIF RP 23 CNS B }</li>
-  <ul>
-    <li>My GitHub: <a href="https://github.com/harisnurpazri"></a></li>
-  </ul>
 </ul>
 
 ## Judul Studi Kasus
