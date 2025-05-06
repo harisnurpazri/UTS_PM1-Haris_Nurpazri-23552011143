@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListAPP</string>
+    <string name="login_title">Masuk</string>
+    <string name="register_title">Daftar Akun</string>
+    <string name="username_hint">Username atau Email</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="confirm_password_hint">Konfirmasi Kata Sandi</string>
+    <string name="login_button">Masuk</string>
+    <string name="register_button">Daftar</string>
+    <string name="no_account">Belum punya akun? Daftar</string>
+    <string name="have_account">Sudah punya akun? Masuk</string>
+</resources>
